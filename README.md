@@ -7,3 +7,4 @@ Third
 git badge first
 
 git collaborate first james carter
+git collaborate first michael chain
